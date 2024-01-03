@@ -233,7 +233,6 @@ function drawQuestion(selectedQuestion) {
 
   // Question 10
   if (selectedQuestion === "j") {
-    console.log("Question #" + questionArray[i]);
     pList[2].textContent =
       "In what year did the infamous Battle of Gettysburg of the Civil War take place?";
     clearQuestion();
