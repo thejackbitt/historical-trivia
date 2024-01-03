@@ -174,7 +174,6 @@ function drawQuestion(selectedQuestion) {
     addButton("Simo Häyhä", false);
     addButton("Aimo Koivunen", true);
     addButton("Kaarlo Edward Kivekäs", false);
-    questionArray.splice(i, 1);
   }
 
   // Question 5
